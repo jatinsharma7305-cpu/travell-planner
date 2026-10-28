@@ -1,0 +1,8 @@
+trips.db
+travel-itinerary-planner/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
